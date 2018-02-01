@@ -1,6 +1,6 @@
 {
   "name": "btq-bitcoind-rpc",
-  "description": "Bitcoin Client Library to connect to Bitcoin Core via RPC",
+  "description": "BitcoinQuark Client Library to connect to BitcoinQuark Core via RPC",
   "version": "0.7.1",
   "author": {
     "name": "Stephen Pair",
