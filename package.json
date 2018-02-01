@@ -8,6 +8,10 @@
   },
   "contributors": [
     {
+      "name": "Lorenzo Bianco",
+      "email": "lorenzo@bitcoinquark.org"
+	},
+    {
       "name": "Jeff Garzik",
       "email": "jgarzik@bitpay.com"
     },
@@ -25,12 +29,13 @@
     }
   ],
   "keywords": [
+    "quark",
     "bitcoin",
     "rpc"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcoind-rpc"
+    "url": "https://github.com/bitcoinquark/bitcoind-rpc"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -47,7 +52,7 @@
     "sinon": "^1.12.2"
   },
   "bugs": {
-    "url": "https://github.com/bitpay/bitcoind-rpc/issues"
+    "url": "https://github.com/bitcoinquark/bitcoind-rpc/issues"
   },
-  "homepage": "https://github.com/bitpay/bitcoind-rpc"
+  "homepage": "https://github.com/bitcoinquark/bitcoind-rpc"
 }
